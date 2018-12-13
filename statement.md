@@ -3,7 +3,6 @@
 This C# template lets you get started quickly with a simple one-page playground.
 
 ```C# runnable
-// { autofold
 class InequalityTest
 {
     static void Main()
@@ -34,10 +33,9 @@ True
 False
 False
 */
-// { autofold
-    }
+
 }
-// }
+
 ```
 
 # About C# != Operators
