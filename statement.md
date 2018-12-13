@@ -1,6 +1,7 @@
-# Welcome!
+# C# != Operator Tutorial
 
-This C# template lets you get started quickly with a simple one-page playground.
+This C# != Operator Tutorial
+www.amiedd.com AmieDD - code, cosplay and games
 
 ```C# runnable
 
