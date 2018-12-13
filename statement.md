@@ -10,15 +10,15 @@ class InequalityTest
 {
     static void Main()
     {
-        // Numeric inequality:
+        // Numeric numbers that don't equal:
         Console.WriteLine((2 + 2) != 4);
 
-        // Reference equality: two objects, same boxed value
+        // Reference equality, two objects, same value
         object s = 1;
         object t = 1;
         Console.WriteLine(s != t);
 
-        // String equality: same string value, same string objects
+        // Strings, same string objects
         string a = "howdy";
         string b = "howdy";
 
