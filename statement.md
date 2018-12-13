@@ -33,9 +33,6 @@ True
 False
 False
 */
-
-}
-
 ```
 
 # About C# != Operators
